@@ -66,5 +66,3 @@ num1 = int(input("Digite uma número!: "))
 s = "Par" if num1 % 2 == 0 else "Impar"
 
 print (s)
-
-
